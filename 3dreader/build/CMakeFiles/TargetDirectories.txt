@@ -1,0 +1,3 @@
+C:/Users/saksh/Desktop/3dreader/build/CMakeFiles/3dreader.dir
+C:/Users/saksh/Desktop/3dreader/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/saksh/Desktop/3dreader/build/CMakeFiles/ZERO_CHECK.dir
