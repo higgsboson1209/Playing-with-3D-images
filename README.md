@@ -21,7 +21,7 @@ This is A 2D slice we just achieved. This slice will also be saved in your Googl
 Saliencymaps_comparison : This Python Script plots 4 different type of saliency maps and compares 3 of them in a tabular form which is generated as table.html and can be downloaded and shared with anyone interested.
 
 Input : The program can take various 2D images and compare all of them 
-![input](https://github.com/higgsboson1209/Playing-with-3D-images/blob/main/test.png)
+![input](https://github.com/higgsboson1209/Playing-with-3D-images/blob/main/salmapcomparisontables.png)
 
 
 
